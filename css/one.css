@@ -1,0 +1,36 @@
+p {
+  color: oblique;
+}
+img {
+  width: 30%;
+  height: 10%;
+}
+h1 {
+  color: blue;
+  font-size: 30px;
+}
+h2 {
+  font-size: 30px;
+  color: blue;
+}
+h3 {
+  color: blue;
+  font-size: 30px;
+}
+body {
+  font-style: italic;
+  color: white;
+  background-color: black;
+}
+h4 {
+  color: blue;
+  font-size: 30px;
+}
+.one {
+  border: 2px;
+  padding: 4px;
+  margin: 10px;
+}
+.two {
+  color: darkred;
+}
